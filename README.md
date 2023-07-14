@@ -25,7 +25,7 @@ Available in the [REDCap External Module Repository](https://redcap.vanderbilt.e
 
 ---
 
-## Data Quality Export
+## Data Quality Export for REDCap
 
 This external module allows you to select multiple data quality reports and export them as CSV.
 Available in the [REDCap External Module Repository](https://redcap.vanderbilt.edu/consortium/modules/). Licensed under the MIT License.
