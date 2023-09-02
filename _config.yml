@@ -52,3 +52,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - 2023-09-02-welcome-to-jekyll.skip
+  - about.skip
