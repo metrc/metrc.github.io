@@ -53,5 +53,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 exclude:
-  - 2023-09-02-welcome-to-jekyll.skip
-  - about.skip
+  - sample_post.md.skip
+  - sample_page.md.skip
