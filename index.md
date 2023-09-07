@@ -7,9 +7,9 @@ permalink: /
 ---
 <img src="assets/METRC_logo_redcap.jpg" width="282" height="176">
 
-# Open-Source @ Major Extremity Trauma Research Consortium (METRC)
+# Open Source @ Major Extremity Trauma Research Consortium (METRC)
 
-This is the home for open-source developed by the Major Extremity Trauma Research Consortium (METRC) at the
+This is the home for open source developed by the Major Extremity Trauma Research Consortium (METRC) at the
 Johns Hopkins Bloomberg School of Public Health.  Learn about our mission and studies at [https://www.metrc.org/](https://www.metrc.org)
 
 ---
