@@ -8,7 +8,7 @@ permalink: /browser-extension/
 is a handy tool for both REDCap users and administrators.  It allows you to rapidly navigate between REDCap projects, records, and servers.
 It supports multiple profiles for working with multiple REDCap servers or user accounts.  The extension is available for Chrome (also supports Edge and Opera) and Firefox.
 
-[Chrome Demonstration](https://www.youtube.com/watch?v=RsuqiB_JFbs) - [Firefox Demonstration](https://www.youtube.com/watch?v=XIl6pPECV1Q)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rrnTLtVGlyM?si=5VikAMV9E5r9SocB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Installation
 
