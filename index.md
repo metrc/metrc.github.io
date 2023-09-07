@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 
 layout: home
-title: Open-Source @ METRC
+title: Home
 permalink: /
 ---
 <img src="assets/METRC_logo_redcap.jpg" width="282" height="176">
