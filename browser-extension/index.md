@@ -8,9 +8,12 @@ permalink: /browser-extension/
 is a handy tool for both REDCap users and administrators.  It allows you to rapidly navigate between REDCap projects, records, and servers.
 It supports multiple profiles for working with multiple REDCap servers or user accounts.  The extension is available for Chrome (also supports Edge and Opera) and Firefox.
 
+---
+
 ## Demonstration Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rrnTLtVGlyM?si=5VikAMV9E5r9SocB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
 
 ## Installation
 
@@ -22,12 +25,15 @@ documentation for the module to learn how to configure it for your users.
 Ask your REDCap administrator to install the REDCap Browser Extension Support external module.  Once installed, your REDCap administrator
 will share a link with you to download and configure the extension for your browser.
 
+---
 ## Feedback
 Submit all questions, comments, feedback, ideas, and bug reports to [https://redcap.link/browser-feedback](https://redcap.link/browser-feedback)
 
+---
 ## License
 The server module is licensed under the MIT license.  The browser extension is licensed under the GPL v3 license.
 
+---
 ## Changelog
 
 ### Server Module
