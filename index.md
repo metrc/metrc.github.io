@@ -15,10 +15,8 @@ Johns Hopkins Bloomberg School of Public Health.  Learn about our mission and st
 ---
 
 ## Browser Extension for REDCap
-
 A simple web browser extension that allows you to rapidly navigate between REDCap projects, records, and servers.
-Available in the [REDCap External Module Repository](https://redcap.vanderbilt.edu/consortium/modules/).
-Server module licensed under the MIT License.  Chrome extension licensed under the GPL-3.  Firefox extension licensed under the GPL-3.
+[Read more...](/browser-extension/)
 
 ---
 
