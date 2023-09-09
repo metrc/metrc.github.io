@@ -34,6 +34,12 @@ Submit all questions, comments, feedback, ideas, and bug reports to [https://red
 The server module is licensed under the MIT license.  The browser extension is licensed under the GPL v3 license.
 
 ---
+## Source Code
+The source code for the server module is available at https://github.com/metrc/redcap-browser-extension-support
+
+The source code for the browser extension is available at https://github.com/metrc/redcap_browser_extension 
+
+---
 ## Changelog
 
 ### Server Module
