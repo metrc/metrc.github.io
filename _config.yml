@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Open Source @ the Major Extremity Trauma Research Consortium (METRC)
+title: Open Source at METRC
 email: tech@metrc.org 
 description: >- # this means to ignore newlines until "baseurl:"
   The home of open source software developed by the Major Extremity
-  Trauma Research Consortium at the Johns Hopkins University Bloomberg
+  Trauma Research Consortium (METRC) at the Johns Hopkins University Bloomberg
   School of Public Health.  Our main site is https://metrc.org
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://opensource.metrc.org" # the base hostname & protocol for your site, e.g. http://example.com
