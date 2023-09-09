@@ -35,9 +35,9 @@ The server module is licensed under the MIT license.  The browser extension is l
 
 ---
 ## Source Code
-The source code for the server module is available at https://github.com/metrc/redcap-browser-extension-support
+The source code for the server module is available at [https://github.com/metrc/redcap-browser-extension-support](https://github.com/metrc/redcap-browser-extension-support)
 
-The source code for the browser extension is available at https://github.com/metrc/redcap_browser_extension 
+The source code for the browser extension is available at [https://github.com/metrc/redcap_browser_extension](https://github.com/metrc/redcap_browser_extension) 
 
 ---
 ## Changelog
