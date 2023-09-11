@@ -43,11 +43,13 @@ The source code for the browser extension is available at [https://github.com/me
 ## Changelog
 
 ### Server Module
+* ___1.2.0___ - Bug fixes and improvements
 * ___1.1.0___ - Adding new browser extension features
 * ___1.0.1___ - Added support page for granting all users access to the project
 * ___1.0.0___ - Initial release
 
 ### Browser Extension
+* ___1.3.1.0___ - New features to support server module 1.2.0
 * ___1.3.0.1___ - Bug fixes
 * ___1.3.0.0___ - New features to support server module 1.1.0
 * ___1.2.0.1___ - Bug fixes
